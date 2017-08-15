@@ -7,7 +7,7 @@ Running the notebooks requires a working installation of python 2.7 with tensorf
 The easiest way to install the dependencies is to get the anaconda distribution of python from [Anaconda](https://www.continuum.io/downloads)
 
 Then Tensorflow can be installed by executing
-'''
+```
 pip install tensorflow
-'''
+```
 using the python package manager pip.
