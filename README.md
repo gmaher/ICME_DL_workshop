@@ -25,6 +25,3 @@ If everything is installed correctly this should open a jupyter project page wit
 For the computer vision notebook you need to download the [CIFAR10 data](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) and extract it into this directory.
 
 Alternatively you can run the shell script `get_data.sh` and extract the downloaded archive
-
-### Running the NLP notebook
-For the NLP notebook you need to download the [Cornell movie dialogue data](www.mpi-sws.org/~cristian/data/cornell_movie_dialogs_corpus.zip) and extract it into this directory
